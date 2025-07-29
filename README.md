@@ -1,13 +1,21 @@
-# 🧠 Proposal: OpenAI Feedback Pipeline Improvement
-
-This repository documents a detailed feature proposal to improve how OpenAI collects, tracks, and responds to user feedback—especially from power users and developers.
-
-It outlines:
-- The current problems in the ChatGPT feedback process
-- Real-world examples of misalignment
-- Specific, actionable suggestions for improving transparency and usability
-
-👉 Read the full proposal in [proposal.md](proposal.md)
+<p align="center">
+  <img src="https://img.shields.io/badge/status-Active-blue?style=flat-square" alt="Status">
+  <img src="https://img.shields.io/badge/focus-ChatGPT%20Feedback%20Loop-orange?style=flat-square">
+</p>
 
 ---
-🔗 Share this repo with #OpenAI #ChatGPT #DeveloperExperience #FeedbackLoop
+
+# 🧠 OpenAI Feedback Pipeline Proposal
+
+> A public case study on how OpenAI could dramatically improve how it receives, processes, and respects user feedback.
+
+This repo contains:
+- 🔍 A critique of the current ChatGPT feedback loop
+- 💡 Concrete suggestions for OpenAI to implement
+- 🛠️ Tools to simulate a better feedback system, right here in GitHub
+
+🧾 [Read the full proposal](proposal.md)  
+🛣️ [View the roadmap](ROADMAP.md)  
+🤝 [How to contribute](CONTRIBUTING.md)
+
+---

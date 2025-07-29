@@ -1,0 +1,34 @@
+# 🧭 Roadmap – What a Real Feedback System Could Look Like
+
+This is a fictional yet practical roadmap for improving the user feedback experience inside ChatGPT, based on current usability gaps.
+
+---
+
+## ✅ Phase 1 – Immediate Fixes
+
+- Add a “Submit Feedback” button to the ChatGPT UI
+- Replace canned rejection messages with contextual responses
+- Allow user access to a “My Feedback” history tab
+
+---
+
+## 🚀 Phase 2 – Power User Loop
+
+- Tag feedback with IDs and visible status labels (Under Review, Closed, In Progress)
+- Enable high-quality contributors to join feedback pilot programs
+- Offer public-facing GitHub-style changelogs or feature triage summaries
+
+---
+
+## 🌐 Phase 3 – Ecosystem Integration
+
+- Allow enterprise users to submit tracked feedback via API
+- Link feedback to workspace use cases (e.g., ChatGPT Team, Pro)
+- Include community upvoting or prioritization signals
+
+---
+
+## 🧩 Stretch Goals
+
+- Public roadmap with feature voting
+- Community-curated "UX Lab" for alpha testing
