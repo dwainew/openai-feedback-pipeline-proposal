@@ -95,4 +95,4 @@ If OpenAI wants to live up to its mission of building aligned AI tools *with hum
 **Dwaine Wright**  
 ChatGPT Plus user  
 GitHub connector tester  
-20+ year data engineer
+20+ year IT Professional
